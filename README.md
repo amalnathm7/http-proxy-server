@@ -1,3 +1,3 @@
 # http_proxy_server
 
-An HTTP proxy server is implemeted on a simple server using C language.
+An HTTP proxy server is implemented on a simple server using C language.
